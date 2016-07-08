@@ -1,10 +1,10 @@
 #Ðɪℓαη ♡ sαяα:
 local function run(msg)
 if msg.text == "hi" then
-  return "Hi"
+  return "Hi (:"
 end
 if msg.text == "Hi" then
-  return "Hi"
+  return "Hi (:"
 end
 if msg.text == "Hello" then
   return "Hello"
