@@ -18,6 +18,9 @@ end
 if msg.text == "salam" then
   return "Salam"
 end
+if msg.text == "خوبم مرسی" then
+  return "به تخمم (:"
+end
 if msg.text == "jac" then
   return "joon"
 end
@@ -59,6 +62,7 @@ return {
     "^خدافظ$",
     "^جک$",
     "^جکی$",
+    "^خوبم مرسی$",
     "^jac$",
     "^بای$",
     "^[Ss]lm$",
