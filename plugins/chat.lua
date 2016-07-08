@@ -28,7 +28,7 @@ if msg.text == "جک" then
   return "جون (:"
 end
 if msg.text == "جکی" then
-  return "جونم "
+  return "جون 😻 "
 end
 if msg.text == "سلام" then
   return "سلام ♥️"
