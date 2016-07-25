@@ -43,7 +43,7 @@ local function disable_channel(receiver, to_id)
 	_config.disabled_channels[receiver] = true
 
 	save_config()
-	return 'سلف بات خاموش شد 🔴�'
+	return 'سلف بات خاموش شد 🔴'
 end
 
 local function pre_process(msg)
